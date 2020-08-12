@@ -1,6 +1,6 @@
 # todo-basic
 
-Basic Todo app with minimal functionality following [this tutorial](https://medium.com/javascript-in-plain-english/build-a-simple-todo-app-with-react-561579b39ad1).
+Basic todo app with minimal functionality following [this tutorial](https://medium.com/javascript-in-plain-english/build-a-simple-todo-app-with-react-561579b39ad1).
 
 Key Learning Points:
 - It might be easier to code every component in App.js first before breaking them up into individual components.
